@@ -1,0 +1,12 @@
+[user]
+	name = David Vaughan
+	email = DavidRayVaughan00@gmail.com
+[core]
+	editor = vim
+[alias]
+	st = status
+	co = commit
+	addu = add -u :/
+	logo = log --oneline
+	logogd = log --oneline --graph --decorate
+	br = branch
