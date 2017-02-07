@@ -1,0 +1,4 @@
+#source activate sci
+
+# Set bash to Vi controls
+set -o vi
